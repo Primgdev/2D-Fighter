@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grass
+  - Horse
+  - Item
+  - Rapira
+  - Chest
+  - Inventory
+  - Furnace
+  - Fuel
+  - ObjectFurnace
+  - Sword
+  - Enemy
+  - Edge
+  - enemysword
+  - GATE
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Horse
+  - Ground
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3704936109
+    locked: 0
+  - name: Background
+    uniqueID: 4036098383
+    locked: 0
+  - name: Enemy
+    uniqueID: 2423592235
+    locked: 0
+  - name: floor
+    uniqueID: 3540858403
+    locked: 0
